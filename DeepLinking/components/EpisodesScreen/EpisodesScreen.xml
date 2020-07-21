@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!--********** Copyright 2020 Roku Corp.  All Rights Reserved. **********--> 
+
+<component name="EpisodesScreen" extends="Group" initialFocus="itemsList" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="EpisodesScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <interface>
+        <!-- Content fields -->
+        <field id="content" type="node" alwaysnotify="true" onChange="OnContentChange" />
+        <!-- @ReadOnly -->
+		<!-- Array with 2 ints - section and item in current section that was selected -->
+		<field id="selectedItem" type="vector2d" alwaysNotify="true" />
+		<!-- @WriteOnly -->
+		<field id="jumpToItem" type="integer" alwaysNotify="true" onChange="OnJumpToItem" />
+    </interface>
+    <children>
+        <LayoutGroup layoutDirection="horiz" translation="[90.0, 150.0]" itemSpacings="[20]">
+            <LabelList id="categoryList"
+                itemSpacing="[0,10]"
+                itemSize="[360, 48]"
+            />
+            <MarkupList 
+                id="itemsList"
+                itemComponentName="EpisodesListItemComponent"
+                focusBitmapUri="pkg:/images/focus.9.png"
+                focusFootprintBitmapUri="pkg:/images/focus.9.png"
+                itemSize="[650, 160]"
+                itemSpacing="[0, 20]"
+                numRows="3"
+            />
+        </LayoutGroup>
+    </children>
+</component>

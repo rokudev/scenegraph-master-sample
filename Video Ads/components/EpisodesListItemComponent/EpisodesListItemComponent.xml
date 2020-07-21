@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (c) 2020 Roku, Inc. All rights reserved. -->
+
+<component name="EpisodesListItemComponent" extends="Group" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <interface>
+        <field id="itemContent" type="node" onChange="itemContentChanged" />
+    </interface>
+     
+    <script type="text/brightscript" uri="EpisodesListItemComponent.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <children>
+        <Rectangle
+            width="650"
+            height="160"
+            color="0x202020ff"
+        />
+        <LayoutGroup layoutDirection="horiz" itemSpacings="[10]" vertAlignment="custom">
+            <Poster id="poster"
+                width="250"
+                loadWidth="250"
+                height="160"
+                loadHeight="160"
+                loadDisplayMode="limitSize"
+            />
+            <LayoutGroup translation="[0.0, 10.0]" itemSpacings="[16]">
+                <Label id="title"
+                    color="#EFEFEFFF"
+                    maxLines="2"
+                    width="310"
+                    wrap="true"
+                />
+                <Label id="info"
+                    color="#FFFFFF6F"
+                    maxLines="2"
+                    width="310"
+                    wrap="true"
+                />
+                <Label id="description"
+                    color="#FFFFFF6F"
+                    maxLines="4"
+                    width="310"
+                    wrap="true"
+                />
+            </LayoutGroup>
+        </LayoutGroup>
+    </children>
+</component>

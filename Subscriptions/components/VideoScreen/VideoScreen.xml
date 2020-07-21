@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!--********** Copyright 2020 Roku Corp.  All Rights Reserved. **********--> 
+
+<component name="VideoScreen" extends="Rectangle"  xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="VideoScreen.brs" />
+    <interface>
+        <!--  ContentNode with playlist items -->
+        <field id="content" type="node" />
+        <!--  index of selected item in playlist -->
+        <field id="startIndex" type="integer" alwaysnotify="true" onChange="OnIndexChanged"/>
+        <!-- index of last played item. It will be used to show appropriate detailsScreen once videoScreen will be closed -->
+        <field id="lastIndex" type="integer" alias="PlayerTask.lastIndex" />
+        <field id="isSeries" type="bool" />
+        <!-- VideoScreen will be closed once close set to "true" -->
+        <field id="close" type="bool" />
+    </interface>
+    <children>
+        <PlayerTask
+            id="PlayerTask"
+        />
+    </children>
+</component>

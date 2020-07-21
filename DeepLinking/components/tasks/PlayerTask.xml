@@ -1,0 +1,18 @@
+<?rokuml version="1.0" encoding="utf-8" ?>
+<!--********** Copyright 2020 Roku Corp.  All Rights Reserved. **********-->
+
+<component name="PlayerTask" extends="Task">
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/BookmarksLogic.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/SmartBookmarksLogic.brs" />
+    <interface>
+        <!--  ContentNode with playlist items -->
+        <field id="content" type="node" />
+        <!--  index of selected item in playlist -->
+        <field id="startIndex" type="integer" />
+        <!-- index of last played item. It will be used to show appropriate detailsScreen once videoScreen will be closed -->
+        <field id="lastIndex" type="integer" />
+        <field id="isSeries" type="bool" />
+    </interface>
+    <script type="text/brightscript" uri="PlayerTask.brs" />
+</component>

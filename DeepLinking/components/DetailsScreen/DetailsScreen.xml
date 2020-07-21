@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!--********** Copyright 2020 Roku Corp.  All Rights Reserved. **********--> 
+
+<component name="DetailsScreen" extends="Group" initialFocus="Buttons" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="DetailsScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/BookmarksLogic.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/SmartBookmarksLogic.brs" />
+    <interface>
+        <!-- Content fields -->
+        <field id="content" type="node" onChange="OnContentChange" />
+        <!-- @WriteOnly  -->
+        <!-- Manually focus on desired item. This field must be set after setting the content field. -->
+        <field id="jumpToItem" type="integer" onChange="OnJumpToItem" value="0" alwaysNotify="true" />
+        <!-- tells what item is currently focused  -->
+        <field id="itemFocused" type="integer" alwaysNotify="true" />     
+        <field id="buttonSelected" type="integer" alias="buttons.itemSelected" />
+        <field id="buttons" type="node" alias="buttons.content" />
+    </interface>
+    <children>
+        <LayoutGroup
+            translation="[1166, 154]"
+            layoutDirection="horiz"
+            horizAlignment="right"
+            itemSpacings="[40]">
+            <LayoutGroup
+                itemSpacings="[14, 10]"
+                layoutDirection="vert">
+                <Rectangle
+                    width="357"
+                    height="201"
+                    color="0xFFFFFF00">
+                    <Poster
+                        id="poster"
+                        width="357"
+                        loadWidth="357"
+                        height="201"
+                        loadHeight="201"
+                        loadDisplayMode="scaleToFit"
+                    />
+                </Rectangle>
+                <Label
+                    id="titleLabel"
+                    maxLines="2"
+                    width="357"
+                    wrap="true"
+                    horizAlign="right"
+                />
+                <Label
+                    id="timeLabel"
+                    width="357"
+                    wrap="false"
+                    horizAlign="right"
+                />
+            </LayoutGroup>
+            <Group>
+                <LabelList
+                    id="buttons"
+                    numRows="3"
+                    itemSpacing="[0,10]"
+                    itemSize="[593, 48]"
+                />
+                <LayoutGroup
+                    itemSpacings="[40]"
+                    translation="[0, 208]">
+                    <Label
+                        id="descriptionLabel"
+                        wrap="true"
+                        maxLines="6"
+                        width="593"
+                    />
+                    <Label
+                        id="releaseLabel"
+                        wrap="false"
+                        width="520"
+                    />
+                </LayoutGroup>
+            </Group>
+        </LayoutGroup>
+    </children>
+</component>

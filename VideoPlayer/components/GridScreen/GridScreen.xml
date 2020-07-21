@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--********** Copyright 2020 Roku Corp.  All Rights Reserved. **********-->
+
+<component name="GridScreen" extends="Group"  initialFocus="RowList">
+    <script type="text/brightscript" uri="GridScreen.brs" />
+	 <interface>
+        <!-- Specifies the content for the Grid -->
+        <field id="content" type="node" alias="RowList.content" />
+        <field id="rowItemSelected" type="intarray" alwaysnotify="true" alias="RowList.rowItemSelected" />
+        <field id="jumpToRowItem" type="intarray" alias="RowList.jumpToRowItem" />
+    </interface>
+    <children>
+         <!-- Label with title and length of content -->
+        <Label
+	        id="titleLabel"
+	        width="1020"
+			translation="[130,170]"
+	    />
+        <!-- Label with description of content.
+	         wrap="true" and numLines="3" means that the text can be broken into three lines -->
+        <Label
+	        id="descriptionLabel"
+	        wrap="true"
+	        width="1020"
+	        numLines="3"
+			translation="[130,220]"
+	    />
+        <RowList
+            itemComponentName="RowListItemComponent"
+            id="rowList"
+            translation="[80,350]"
+            numRows="2"
+            rowitemSize="[[320,180]]"
+            rowItemSpacing="[[20,0]]"
+            itemSize="[1100,270]"
+            rowLabelOffset="[[50,20]]"
+            focusXOffset="[50]"
+            showRowLabel="[true]"
+            rowFocusAnimationStyle="floatingfocus"
+        />
+    </children>
+</component>
