@@ -1,19 +1,5 @@
 # Creating a Details Screen
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Creating a Details Screen" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen-part1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Creating a Details Screen" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen-part2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how to add a Details Screen to a channel. The Details Screen provides more information about the content selected in the GridScreen. It includes the item's release date, rating, genre, cast, and detailed description. It also includes a Play button for launching content into playback. The details screen enables users to confirm they want to play the content they've selected. 
 
 This lesson describes how to build a Details Screen using more complex components that include nested children. It explains how to create a button that launches the video player, populate the details screen with content metadata that is already stored in other components, and switch the focus when the details screen is opened and closed. 
