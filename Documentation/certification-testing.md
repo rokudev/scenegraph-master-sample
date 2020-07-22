@@ -1,19 +1,5 @@
 # Certification testing
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Certification testing (part 1)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-part1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Certification testing (part 2)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-part2.mp4">
-</video>
-
-## About this lesson
-
 This lesson describes how to prepare your channel to be published to the Roku channel store. It explains how to using Roku's test automation software and tools to verify that your channel's design and performance meets all of Roku's certification criteria.
 
 This lesson highlights how your Roku device test suite should not only include the current devices used by Roku for certification testing, but also contain as many supported devices as possible to optimize channel performance for users across all Roku devices.
