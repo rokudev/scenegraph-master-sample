@@ -21,8 +21,8 @@ This lesson introduces the Roku SceneGraph development course. It lists the requ
 
 ### Videos
 
-[Streaming overview](/videos/courses/streaming-overview.md)
+[Streaming overview](https://developer.roku.com/videos/courses/streaming-overview.md)
 
 ### Documentation
 
-[Roku platform overview](/docs/features/features-overview.md)
+[Roku platform overview](https://developer.roku.com/docs/features/features-overview.md)

@@ -43,35 +43,35 @@ This lesson concludes by demonstrating how to use the Roku Deep Linking Tester a
 
 To keep the channel demonstration segments in this lesson concise and make them more comprehensible, the pre-roll ads that you will see when deep linking into content in the sample channel have been edited out.
 
-As described in the [document for the Subscriptions video](/videos/courses/rsg/subscriptions.md#steps-required-to-play-content), you need to create a channel and then configure the channel and your developer account for testing in order to play the videos in the [Deep linking sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DeepLinking).
+As described in the [document for the Subscriptions video](https://developer.roku.com/videos/courses/rsg/subscriptions.md#steps-required-to-play-content), you need to create a channel and then configure the channel and your developer account for testing in order to play the videos in the [Deep linking sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DeepLinking).
 
 ## Resources
 
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Deep linking sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DeepLinking) | Download and review the code used in this lesson to accept and process deep links into a channel. |
-| [Sideloading channels](/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the DeepLinking channel created in this lesson. |
-| [Deep linking implementation guide](/docs/references/scenegraph/control-nodes/channelstore.md) | Read how to implement deep linking in a channel. This document highlights how deep linking works, details the required channel behavior based on the media type included in the deep link, and provides code samples demonstrating how to handle deep links upon launching the channel and while it is already running. It explains how to use the Deep Linking Tester and cURL commands to verify that a channel is programmed correctly to handle deep links. |
-| [Certification criteria for deep linking](/docs/developer-program/certification/certification.md#5-deep-linking) | Read the certification criteria for handling deep links in a channel. |
+| [Sideloading channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the DeepLinking channel created in this lesson. |
+| [Deep linking implementation guide](https://developer.roku.com/docs/references/scenegraph/control-nodes/channelstore.md) | Read how to implement deep linking in a channel. This document highlights how deep linking works, details the required channel behavior based on the media type included in the deep link, and provides code samples demonstrating how to handle deep links upon launching the channel and while it is already running. It explains how to use the Deep Linking Tester and cURL commands to verify that a channel is programmed correctly to handle deep links. |
+| [Certification criteria for deep linking](https://developer.roku.com/docs/developer-program/certification/certification.md#5-deep-linking) | Read the certification criteria for handling deep links in a channel. |
 | [Roku Deep Linking Tester](http://devtools.web.roku.com/DeepLinkingTester) | Use the Deep Linking Tester tool to verify that your channel is handling deep links correctly. This tool provides a UI for configuring, saving, import/exporting, and executing deep linking test cases. |
-| [Bookmarking implementation guide](/docs/developer-program/media-playback/bookmarking.md) | Read how to record and retrieve the user's playback position for the content in your channel. Learn how bookmarking enables users to continue watching content precisely where they stopped. |
+| [Bookmarking implementation guide](https://developer.roku.com/docs/developer-program/media-playback/bookmarking.md) | Read how to record and retrieve the user's playback position for the content in your channel. Learn how bookmarking enables users to continue watching content precisely where they stopped. |
 
 ## Related
 
-[roInput](/docs/references/brightscript/components/roinput.md)
+[roInput](https://developer.roku.com/docs/references/brightscript/components/roinput.md)
 
-[Device registry](/docs/references/brightscript/components/roregistry.md)
+[Device registry](https://developer.roku.com/docs/references/brightscript/components/roregistry.md)
 
-[Registry section](/docs/references/brightscript/components/roregistrysection.md)
+[Registry section](https://developer.roku.com/docs/references/brightscript/components/roregistrysection.md)
 
-[External Control Protocol (ECP)](/docs/developer-program/debugging/external-control-api.md)
+[External Control Protocol (ECP)](https://developer.roku.com/docs/developer-program/debugging/external-control-api.md)
 
-[Measuring channel performance](/docs/developer-program/performance-guide/measuring-channel-performance.md)
+[Measuring channel performance](https://developer.roku.com/docs/developer-program/performance-guide/measuring-channel-performance.md)
 
-[Handing application events](/docs/developer-program/core-concepts/handling-application-events.md)
+[Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
-[Event loops](/docs/developer-program/core-concepts/event-loops.md)
+[Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](/docs/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](/docs/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)

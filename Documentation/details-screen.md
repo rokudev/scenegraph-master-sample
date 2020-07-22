@@ -23,21 +23,21 @@ This lesson describes how to build a Details Screen using more complex component
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Details Screen sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DetailsScreen) | Download and review the code used in this lesson to create a details screen. |
-| [Sideloading  Roku channels](/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
+| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
 
 ## Related
 
-[LayoutGroup node](/docs/references/scenegraph/layout-group-nodes/layoutgroup.md)
+[LayoutGroup node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/layoutgroup.md)
 
-[Group node](/docs/references/scenegraph/layout-group-nodes/group.md)
+[Group node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/group.md)
 
-[Rectangle node](/docs/references/scenegraph/renderable-nodes/rectangle.md)
+[Rectangle node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/rectangle.md)
 
-[Label node](/docs/references/scenegraph/renderable-nodes/label.md)
+[Label node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/label.md)
 
-[Poster node](/docs/references/scenegraph/renderable-nodes/poster.md)
+[Poster node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/poster.md)
 
-[Content node](/docs/references/scenegraph/control-nodes/contentnode.md)  
+[Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md)  
 
 [Content meta data](docs/developer-program/getting-started/architecture/content-metadata.md)
 
@@ -45,6 +45,6 @@ This lesson describes how to build a Details Screen using more complex component
 
 [Event loops](docs/developer-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](/docs/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](/docs/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)
