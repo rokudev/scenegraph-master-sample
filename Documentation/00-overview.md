@@ -6,13 +6,13 @@ The **SceneGraph Developers: Build a Channel** course teaches novice Roku develo
 
 This course starts with introductory material including how to get started developing on the Roku platform, SceneGraph core concepts, and how to create a feed with the metadata for the content in your catalog. It then guides developers on creating the essential screens in a Roku channel UI: the grid screen, video player, details screen, and episode selection screen. It concludes with advanced topics such as monetizing content through video ads and subscriptions, implementing deep linking, and testing a channel for certification-readiness.
 
-> Before starting this course, watch the [Streaming overview](https://developer.roku.com/videos/courses/streaming-overview.md) video. This provides a high-level overview of how streaming works. 
+> Before starting this course, watch the [Streaming overview](https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v2.mp4) video. This provides a high-level overview of how streaming works. 
 
 ## How to watch the video lessons
 
 Each document in this folder has a link to its respective video lesson. 
 
-You can watch the video lessons from your TV by installing the [Roku Developers channel](https://my.roku.com/account/add/HL5RPZ) on your Roku device.
+> You can watch the video lessons from your TV by installing the [Roku Developers channel](https://my.roku.com/account/add/HL5RPZ) on your Roku device.
 
 ## How the video lessons work
 
