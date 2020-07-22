@@ -1,11 +1,5 @@
 # Core concepts
 
-<video title="Roku SceneGraph Developers: Core concepts" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview.mp4">
-</video>
-
-## About this lesson
-
 This lesson reviews core concepts for Roku channel app development. It explains the basic design principles and key concepts for developing on the Roku platform, outlines the contents and structure of Roku channels, and compares the programming languages used to build Roku channels: SceneGraph and BrightScript. It highlights the different types of SceneGraph components you can use to build the channel UI. 
 
 The lesson continues by providing a high-level overview of several key topics such as threading, event handling, and data scoping. It concludes by explaining the importance of factoring graceful degradation in the channel design.
