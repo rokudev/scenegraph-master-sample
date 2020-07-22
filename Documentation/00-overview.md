@@ -12,7 +12,7 @@ This course starts with introductory material including how to get started devel
 
 Each document in this folder has a link to its respective video lesson. 
 
-> You can watch the video lessons from your TV by installing the [Roku Developers channel](https://my.roku.com/account/add/HL5RPZ) on your Roku device.
+> You can also watch the video lessons from your TV by installing the [Roku Developers channel](https://my.roku.com/account/add/HL5RPZ) on your Roku device.
 
 ## How the video lessons work
 
