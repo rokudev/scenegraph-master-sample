@@ -1,19 +1,5 @@
 # Displaying video ads
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Core concepts (part 1)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Core concepts (part 2)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how to monetize content on the Roku platform through video ads. It describes how to implement the [Roku Advertising Framework (RAF)](https://developer.roku.com/docs/developer-program/advertising/roku-advertising-framework.md) in order to seamlessly insert video ads into content. It highlights the different client and server-side ad insertion and stitching solutions provided by RAF, and explains how to get started with RAF in order to display video ads in your channel.  
 
 This lesson then guides you through implementing Roku's [client-side ad stitching solution](https://developer.roku.com/docs/developer-program/advertising/csas.md) to combine content with video ads into a single playlist. This solution makes it so that the videos and ads play back-to-back without any buffering. This lesson also discusses [certification criteria for displaying ads](https://developer.roku.com/docs/developer-program/certification/certification.md#1-advertising) on the Roku platform, including requirements related to privacy, ad measurement, and child-directed content.
