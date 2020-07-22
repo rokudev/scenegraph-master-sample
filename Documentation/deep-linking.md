@@ -1,34 +1,5 @@
 # Deep linking
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Deep linking (part 1)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-part1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Deep linking (part 2)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-part2.mp4">
-</video>
-
-## Part 3
-
-<video title="Roku SceneGraph Developers: Deep linking (part 3)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-part3.mp4">
-</video>
-
-## Part 4
-
-<video title="Roku SceneGraph Developers: Deep linking (part 4)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-part4.mp4">
-</video>
-## Part 5
-
-<video title="Roku SceneGraph Developers: Deep linking (part 5)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-part5.mp4">
-</video>
-
 ## About this lesson
 
 This lesson describes how to implement deep linking in a channel to get users to their content as fast as possible. When a user tells their Roku device to play a movie, or searches for a TV show, series, or other content, the channel must deep link directly to the requested content instead of just launching the channel's home page. For example, when a movie is selected from Roku Search, a deep link is used to launch the channel and play the film immediately without any navigation. In addition, if the user has already started watching the movie, deep linking resumes it right at the playback position bookmarked by the channel application.
