@@ -1,19 +1,5 @@
 # Creating a Grid Screen
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Creating a Grid Screen" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-part-1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Creating a Grid Screen" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-part-2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how to create a basic channel that gets the videos from a content feed and displays them in a grid, which contains rows of posters (thumbnail images). It demonstrates how when you scroll to a poster, it is highlighted and its name, duration, and description are displayed above the row. 
 
 This lesson describes how to create the directory structure and manifest required by Roku channels. It shows how to create SceneGraph components, set their attributes, and create their interfaces. It details how to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to SceneGraph components. 
