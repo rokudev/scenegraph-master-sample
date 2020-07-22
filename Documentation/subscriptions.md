@@ -1,21 +1,5 @@
 # Offering subscriptions
 
-## Part 1
-
-<video title="Roku SceneGraph Developers: Offering subscriptions (part 1)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions-part1.mp4">
-</video>
-
-## Part 2
-
-<video title="Roku SceneGraph Developers: Offering subscriptions (part 2)" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions-part2.mp4">
-</video>
-
-
-
-## About this lesson
-
 This lesson describes how to monetize content by offering subscriptions, directly on-device, through Roku Pay. It explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It details the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It also summarizes how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.
 
 The lesson then covers how to offer subscriptions in a channel by integrating the Roku SceneGraph ChannelStore component. It explains how to use the ChannelStore APIs to get subscription products from the channel's catalog, purchase products, and confirm purchases.  
