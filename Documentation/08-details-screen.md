@@ -9,28 +9,28 @@ This lesson describes how to build a Details Screen using more complex component
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Details Screen sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DetailsScreen) | Download and review the code used in this lesson to create a details screen. |
-| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
+| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
 
 ## Related
 
-[LayoutGroup node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/layoutgroup.md)
+[LayoutGroup node](https://developer.roku.com/docs/developer-programreferences/scenegraph/layout-group-nodes/layoutgroup.md)
 
-[Group node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/group.md)
+[Group node](https://developer.roku.com/docs/developer-programreferences/scenegraph/layout-group-nodes/group.md)
 
-[Rectangle node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/rectangle.md)
+[Rectangle node](https://developer.roku.com/docs/developer-programreferences/scenegraph/renderable-nodes/rectangle.md)
 
-[Label node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/label.md)
+[Label node](https://developer.roku.com/docs/developer-programreferences/scenegraph/renderable-nodes/label.md)
 
-[Poster node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/poster.md)
+[Poster node](https://developer.roku.com/docs/developer-programreferences/scenegraph/renderable-nodes/poster.md)
 
-[Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md)  
+[Content node](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/contentnode.md)  
 
-[Content meta data](docs/developer-program/getting-started/architecture/content-metadata.md)
+[Content meta data](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/architecture/content-metadata.md)
 
-[Handing application events](docs/developer-program/core-concepts/handling-application-events.md)
+[Handing application events](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/handling-application-events.md)
 
-[Event loops](docs/developer-program/core-concepts/event-loops.md)
+[Event loops](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/developer-programreferences/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/developer-programreferences/brightscript/interfaces/ifsgnodechildren.md)

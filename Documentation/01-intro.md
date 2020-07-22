@@ -19,4 +19,4 @@ This lesson introduces the Roku SceneGraph development course. It lists the requ
 
 ### Documentation
 
-[Roku platform overview](https://developer.roku.com/docs/features/features-overview.md)
+[Roku platform overview](https://developer.roku.com/docs/developer-programfeatures/features-overview.md)
