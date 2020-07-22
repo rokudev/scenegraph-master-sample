@@ -1,11 +1,5 @@
 # Introduction to the course
 
-<video title="Roku SceneGraph Developers: Introduction to the course" poster="https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v2.mp4">
-</video>
-
-## About this lesson
-
 This lesson introduces the Roku SceneGraph development course. It lists the requirements for developing on the Roku platform, which includes creating a Roku user account, enrolling in the Roku developer program, and getting a Roku device for development and testing. It concludes by providing the course syllabus and highlighting the channel UI and features you will learn to build. 
 
 ## Resources
