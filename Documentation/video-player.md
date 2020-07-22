@@ -1,11 +1,5 @@
 # Adding the Video Player
 
-<video title="Roku SceneGraph Developers: Adding the Video Player" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how to add the [SceneGraph Video node](https://developer.roku.com/docs/references/scenegraph/media-playback-nodes/video.md) to your channel and link it to the content in other components. It describes how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control. This lesson also includes the [requirements for streaming videos](https://developer.roku.com/docs/specs/streaming.md) on the Roku platform. 
 
 ## Resources
