@@ -1,11 +1,5 @@
 # Creating the content feed
 
-<video title="Roku SceneGraph Developers: Creating the content feed" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how the content feed is used to load and organize content in the channel UI. It describes how the SceneGraph [Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md) maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating and hosting your own feed.
 
 ## Resources
