@@ -12,7 +12,7 @@ This lesson concludes by demonstrating how to use the Roku Deep Linking Tester a
 
 To keep the channel demonstration segments in this lesson concise and make them more comprehensible, the pre-roll ads that you will see when deep linking into content in the sample channel have been edited out.
 
-As described in the [document for the Subscriptions video](https://developer.roku.com/videos/courses/rsg/subscriptions.md#steps-required-to-play-content), you need to create a channel and then configure the channel and your developer account for testing in order to play the videos in the [Deep linking sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DeepLinking).
+As described in the [document for the Subscriptions video](https://github.com/rokudev/scenegraph-master-sample/blob/master/Documentation/11-subscriptions.md), you need to create a channel and then configure the channel and your developer account for testing in order to play the videos in the [Deep linking sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DeepLinking).
 
 ## Resources
 
