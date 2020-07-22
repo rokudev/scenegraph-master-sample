@@ -1,7 +1,5 @@
 # Deep linking
 
-## About this lesson
-
 This lesson describes how to implement deep linking in a channel to get users to their content as fast as possible. When a user tells their Roku device to play a movie, or searches for a TV show, series, or other content, the channel must deep link directly to the requested content instead of just launching the channel's home page. For example, when a movie is selected from Roku Search, a deep link is used to launch the channel and play the film immediately without any navigation. In addition, if the user has already started watching the movie, deep linking resumes it right at the playback position bookmarked by the channel application.
 
 This lesson details how to program your channel application to accept and process deep links upon being launched and while it is already running. It lists the different playback experiences requried for the various types of content in the channel's feed.
