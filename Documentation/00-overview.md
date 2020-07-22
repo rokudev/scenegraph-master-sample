@@ -1,6 +1,6 @@
 # Overview
 
-The **SceneGraph Developers: Build a Channel** course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course features a set of 13 video lessons and the master sample channel that walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.
+The **SceneGraph Developers: Build a Channel** course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.
 
 ## Course content
 
