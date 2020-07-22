@@ -1,11 +1,5 @@
 # Development setup
 
-<video title="Roku SceneGraph Developers: Development setup" poster="https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v3a.png">
-    <source src="https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v2.mp4">
-</video>
-
-## About this lesson
-
 This lesson explains how to create the required user and developer accounts for developing on the Roku platform and how to enable your test Roku device for development. It shows you how to sideload Roku's Hello World channel, update the text displayed on the screen, and then view its output in the debug console.
 
 ## Resources
