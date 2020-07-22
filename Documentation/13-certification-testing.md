@@ -10,10 +10,6 @@ It provides a quick demo of Roku's Static Analysis tool, which detects certifica
 
 This lesson concludes by reviewing key tips for optimizing a channel's performance.
 
-##  Notes
-
-In the demo of the Channel Behavior Analysis tool, the video uses the SceneGraph Developer's sample channel, which includes subscriptions. However, the Channel Behavior Analysis tool is only intended for free and ad-based channels. As a result, the tool will report failures when trying to verify the channel's video launch times and deep links. This is because the playback of video requires the test device to be linked to the developer's in-channel products.
-
 ## Resources
 
 | Item                                                         | Location                                                     |
