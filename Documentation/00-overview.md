@@ -1,6 +1,6 @@
 # Overview
 
-The **SceneGraph Developers: Build a Channel** course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course features a set of 13 video lessons and a comprehensive [sample channel](https://github.com/rokudev/scenegraph-master-sample) that walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.
+The **SceneGraph Developers: Build a Channel** course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course features a set of 13 video lessons and the master sample channel that walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.
 
 ## Course content
 
@@ -8,19 +8,11 @@ This course starts with introductory material including how to get started devel
 
 > Before starting this course, watch the [Streaming overview](https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v2.mp4) video. This provides a high-level overview of how streaming works. 
 
-## How to watch the video lessons
-
-Each document in this folder has a link to its respective video lesson. 
-
-> You can also watch the video lessons from your TV by installing the [Roku Developers channel](https://my.roku.com/account/add/HL5RPZ) on your Roku device.
-
 ## How the video lessons work
 
 Each video lesson is broken down into individual sections that summarize the material being taught, conceptualize the feature being implemented, and demonstrate the completed feature. A step-by-step walkthrough of code is also included in the lessons that build the channel UI and implement video ads, subscriptions, and deep linking. 
 
-The code used in these lessons has been packaged into individual channels within a master sample channel that accompanies this  course. For example, the lesson explaining how to build a GridScreen has an associated GridScreen sample channel that you can download, review the code implementation, and then sideload and test on your Roku device. 
-
-Overall, the master sample channel includes channels for building the screens in the channel UI and implementing the video ads, subscriptions, and deep linking features. You can download all the channels used for this course from [Roku's GitHub project](https://github.com/rokudev/scenegraph-master-sample).
+The code used in these lessons is included in the master sample channel. For example, the lesson explaining how to build a GridScreen has an associated GridScreen sample channel that you can download, review the code implementation, and then sideload and test on your Roku device. 
 
 ## What to do after watching a video lesson
 
