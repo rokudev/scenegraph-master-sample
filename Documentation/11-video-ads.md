@@ -14,7 +14,6 @@ This lesson then guides you through implementing Roku's [client-side ad stitchin
 | [Roku partner payouts program](/developer/billing)           | Enroll in the Roku partner payouts program. Provide a payout method and tax information to monetize ad-supported content. |
 | [Certification criteria for ad-supported channels](https://developer.roku.com/docs/developer-programdeveloper-program/certification/certification.md#1-advertising) | Read the certification criteria for channels displaying ads on the Roku platform. |
 | [Roku Advertising Framework overview](https://developer.roku.com/docs/developer-programdeveloper-program/advertising/roku-advertising-framework.md) | Learn more about implementing Roku's client and server-side ad insertion solutions. |
-| [Roku genres](/docs/developer-program/advertising/integrating-roku-advertising-framework.md#roku-genre-tags) | Read the list of valid genres that may be passed to RAF for proper audience measurement. |
 | [Client-side ad stitching integration guide](https://developer.roku.com/docs/developer-programdeveloper-program/advertising/csas.md) | Read how to combine content and ads into a single playlist and then render the playlist. This optimizes the video playback experience by eliminating buffering between content and ads. |
 
 ## Related
