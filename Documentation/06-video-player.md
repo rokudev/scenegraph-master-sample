@@ -7,7 +7,7 @@ This lesson explains how to add the [SceneGraph Video node](https://developer.ro
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Video Player sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/VideoPlayer) | Download and review the code used in this lesson to implement a Video node in a Roku channel . |
-| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Video Player channel created in this lesson. |
+| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Video Player channel created in this lesson. |
 | [Video hosting](https://developer.roku.com/docs/developer-programfeatures/how-channels-work.md#content-hosting) | View the list  content delivery networks (CDNs) and online video platforms (OVPs) that have worked with publishers to host content for their Roku channels. |
 | [Streaming spec](https://developer.roku.com/docs/developer-programspecs/streaming.md)                   | Understand the required file formats and encoding methods for streaming video content on Roku devices. |
 | [SceneGraph Video node](https://developer.roku.com/docs/developer-programreferences/scenegraph/media-playback-nodes/video.md) | Read how to configure the different attributes of the SceneGraph Video node, including its playback, UI, trick play, and captioning parameters. |
@@ -22,10 +22,10 @@ This lesson explains how to add the [SceneGraph Video node](https://developer.ro
 
 [RowList node](https://developer.roku.com/docs/developer-programreferences/scenegraph/list-and-grid-nodes/rowlist.md)
 
-[Handing application events](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/handling-application-events.md)
+[Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
 [Content node](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/contentnode.md)  
 
-[Content meta data](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/architecture/content-metadata.md)
+[Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
-[Sideloading channels](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer)
+[Sideloading channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer)

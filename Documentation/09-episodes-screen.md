@@ -9,7 +9,7 @@ This lesson shows how to use new components such as the [MarkupList](https://dev
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Episodes Screen sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/EpisodesScreen) | Download and review the code used in this lesson to create an episodes screen. |
-| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Episodes Screen channel created in this lesson. |
+| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Episodes Screen channel created in this lesson. |
 
 ## Related
 
@@ -27,11 +27,11 @@ This lesson shows how to use new components such as the [MarkupList](https://dev
 
 [Content node](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/contentnode.md)  
 
-[Content meta data](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/architecture/content-metadata.md)
+[Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
-[Handing application events](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/handling-application-events.md)
+[Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
-[Event loops](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/event-loops.md)
+[Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
 [OnKeyEvent()](https://developer.roku.com/docs/developer-programreferences/scenegraph/component-functions/onkeyevent.md)
 

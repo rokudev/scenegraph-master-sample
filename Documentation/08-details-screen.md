@@ -9,7 +9,7 @@ This lesson describes how to build a Details Screen using more complex component
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Details Screen sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/DetailsScreen) | Download and review the code used in this lesson to create a details screen. |
-| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
+| [Sideloading  Roku channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Details Screen channel created in this lesson. |
 
 ## Related
 
@@ -25,11 +25,11 @@ This lesson describes how to build a Details Screen using more complex component
 
 [Content node](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/contentnode.md)  
 
-[Content meta data](https://developer.roku.com/docs/developer-programdeveloper-program/getting-started/architecture/content-metadata.md)
+[Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
-[Handing application events](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/handling-application-events.md)
+[Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
-[Event loops](https://developer.roku.com/docs/developer-programdeveloper-program/core-concepts/event-loops.md)
+[Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
 [OnKeyEvent()](https://developer.roku.com/docs/developer-programreferences/scenegraph/component-functions/onkeyevent.md)
 
