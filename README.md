@@ -1,4 +1,4 @@
-# Scenegraph master sample
+# SceneGraph master sample
 
 The SceneGraph Master Sample serves as a model for building a certification-compliant channel. It walks developers through each step in developing a basic, high-performance Roku channel that passes certification. It can be used as a reference when building a new Roku channel UI. Because this master sample is certification-compliant, it can also be used as a template for quickly creating and publishing a customized Roku channel.
 
