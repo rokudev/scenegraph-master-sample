@@ -14,5 +14,5 @@ This lesson explains how to access the [debug console](https://developer.roku.co
 
 [Measuring channel performance](https://developer.roku.com/docs/developer-program/performance-guide/measuring-channel-performance.md)
 
-[ifDeviceInfo interface](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifdeviceinfo.md)
+[ifDeviceInfo interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifdeviceinfo.md)
 

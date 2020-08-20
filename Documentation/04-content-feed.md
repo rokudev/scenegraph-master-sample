@@ -1,6 +1,6 @@
 # Creating the content feed
 
-This lesson explains how the content feed is used to load and organize content in the channel UI. It describes how the SceneGraph [Content node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/contentnode.md) maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating and hosting your own feed.
+This lesson explains how the content feed is used to load and organize content in the channel UI. It describes how the SceneGraph [Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md) maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating and hosting your own feed.
 
 ## Resources
 
@@ -19,7 +19,7 @@ This lesson explains how the content feed is used to load and organize content i
 
 ## Related
 
-[Content node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/contentnode.md)  
+[Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md)  
 
 [Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 

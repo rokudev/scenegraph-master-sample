@@ -33,7 +33,7 @@ In addition, to keep the channel demonstration segments in this lesson concise a
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Subscriptions sample channel](https://github.com/rokudev/scenegraph-master-sample/tree/master/Subscriptions) | Download and review the code used in this lesson to implement Roku Pay in a channel. |
 | [Sideloading channels](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md#step-2-accessing-the-development-application-installer) | Sideload and test the Subscriptions channel created in this lesson. |
-| [SceneGraph ChannelStore node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/channelstore.md) | Read about the SceneGraph ChannelStore APIs, which are used to get subscription products from the channel's catalog, pre-populate dialogs with customers' user information, purchase products, and store and retrieve user credentials. |
+| [SceneGraph ChannelStore node](https://developer.roku.com/docs/references/scenegraph/control-nodes/channelstore.md) | Read about the SceneGraph ChannelStore APIs, which are used to get subscription products from the channel's catalog, pre-populate dialogs with customers' user information, purchase products, and store and retrieve user credentials. |
 | [Roku Web Service API](https://developer.roku.com/docs/developer-program/roku-pay/roku-web-service.md) | Read about the Roku Web Service RESTful API, which you can integrate into your backend system to pull transaction data in order to validate, refund, and cancel subscriptions.  Learn how to subscribe to push notifications to deliver transaction data to your service endpoint. |
 | [Certification criteria for purchases](https://developer.roku.com/docs/developer-program/certification/certification.md#2-purchases) | Read the certification criteria for transactional channels (SVOD channels, TVOD channels, and other subscription services). |
 | [On-device authentication](https://developer.roku.com/docs/developer-program/authentication/on-device-authentication.md#sample-channel) | Read how to validate subscriptions and purchases before granting access to content. Learn how to enable customers to sign-in to a channel directly on their Roku devices—without having to visit an external webpage. |
@@ -43,18 +43,18 @@ In addition, to keep the channel demonstration segments in this lesson concise a
 
 ## Related
 
-[Device registry](https://developer.roku.com/docs/developer-program/references/brightscript/components/roregistry.md)
+[Device registry](https://developer.roku.com/docs/references/brightscript/components/roregistry.md)
 
-[Registry section](https://developer.roku.com/docs/developer-program/references/brightscript/components/roregistrysection.md)
+[Registry section](https://developer.roku.com/docs/references/brightscript/components/roregistrysection.md)
 
-[Dialog node](https://developer.roku.com/docs/developer-program/references/scenegraph/dialog-nodes/dialog.md)
+[Dialog node](https://developer.roku.com/docs/references/scenegraph/dialog-nodes/dialog.md)
 
-[roDateTime](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifdatetime.md)
+[roDateTime](https://developer.roku.com/docs/references/brightscript/interfaces/ifdatetime.md)
 
 [Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
 [Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/developer-program/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)

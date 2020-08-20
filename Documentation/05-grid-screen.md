@@ -15,29 +15,29 @@ This lesson describes how to create the directory structure and manifest require
 
 ## Related
 
-[Scene node](https://developer.roku.com/docs/developer-program/references/scenegraph/abstract-nodes/scene.md)
+[Scene node](https://developer.roku.com/docs/references/scenegraph/abstract-nodes/scene.md)
 
-[Overhang node](https://developer.roku.com/docs/developer-program/references/scenegraph/sliding-panels-nodes/overhang.md)
+[Overhang node](https://developer.roku.com/docs/references/scenegraph/sliding-panels-nodes/overhang.md)
 
-[Label node](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/label.md)
+[Label node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/label.md)
 
-[RowList node](https://developer.roku.com/docs/developer-program/references/scenegraph/list-and-grid-nodes/rowlist.md)
+[RowList node](https://developer.roku.com/docs/references/scenegraph/list-and-grid-nodes/rowlist.md)
 
-[Poster node](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/poster.md)
+[Poster node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/poster.md)
 
 [Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
-[Content node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/contentnode.md)  
+[Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md)  
 
 [Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/developer-program/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)
 
 [Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
-[Runtime functions](https://developer.roku.com/docs/developer-program/references/brightscript/language/runtime-functions.md)
+[Runtime functions](https://developer.roku.com/docs/references/brightscript/language/runtime-functions.md)
 
-[BrightScript expressions, variables, and types](https://developer.roku.com/docs/developer-program/references/brightscript/language/expressions-variables-types.md)
+[BrightScript expressions, variables, and types](https://developer.roku.com/docs/references/brightscript/language/expressions-variables-types.md)
 

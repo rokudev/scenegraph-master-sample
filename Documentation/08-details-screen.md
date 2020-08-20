@@ -13,17 +13,17 @@ This lesson describes how to build a Details Screen using more complex component
 
 ## Related
 
-[LayoutGroup node](https://developer.roku.com/docs/developer-program/references/scenegraph/layout-group-nodes/layoutgroup.md)
+[LayoutGroup node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/layoutgroup.md)
 
-[Group node](https://developer.roku.com/docs/developer-program/references/scenegraph/layout-group-nodes/group.md)
+[Group node](https://developer.roku.com/docs/references/scenegraph/layout-group-nodes/group.md)
 
-[Rectangle node](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/rectangle.md)
+[Rectangle node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/rectangle.md)
 
-[Label node](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/label.md)
+[Label node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/label.md)
 
-[Poster node](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/poster.md)
+[Poster node](https://developer.roku.com/docs/references/scenegraph/renderable-nodes/poster.md)
 
-[Content node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/contentnode.md)  
+[Content node](https://developer.roku.com/docs/references/scenegraph/control-nodes/contentnode.md)  
 
 [Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
@@ -31,6 +31,6 @@ This lesson describes how to build a Details Screen using more complex component
 
 [Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/developer-program/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)

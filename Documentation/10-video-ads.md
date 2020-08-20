@@ -23,9 +23,9 @@ This lesson then guides you through implementing Roku's [client-side ad stitchin
 
 [RAF API Reference](https://developer.roku.com/docs/developer-program/advertising/raf-api.md)
 
-[Task node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/task.md)
+[Task node](https://developer.roku.com/docs/references/scenegraph/control-nodes/task.md)
 
-[Video node](https://developer.roku.com/docs/developer-program/references/scenegraph/media-playback-nodes/video.md)
+[Video node](https://developer.roku.com/docs/references/scenegraph/media-playback-nodes/video.md)
 
 [Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
@@ -33,9 +33,9 @@ This lesson then guides you through implementing Roku's [client-side ad stitchin
 
 [Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/developer-program/references/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/references/scenegraph/component-functions/onkeyevent.md)
 
-[ifSGNodeChildren interface](https://developer.roku.com/docs/developer-program/references/brightscript/interfaces/ifsgnodechildren.md)
+[ifSGNodeChildren interface](https://developer.roku.com/docs/references/brightscript/interfaces/ifsgnodechildren.md)
 
 [Channel manifest](https://developer.roku.com/docs/developer-program/getting-started/architecture/channel-manifest.md#launch-requirement-attributes)
 
