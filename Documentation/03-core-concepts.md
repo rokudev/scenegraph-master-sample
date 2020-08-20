@@ -9,17 +9,17 @@ The lesson continues by providing a high-level overview of several key topics su
 | Item                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [SceneGraph core concepts](https://developer.roku.com/docs/developer-program/core-concepts/core-concepts.md) | Read in-depth documentation about many of the SceneGraph topics covered in this video. Roku SceneGraph is the object-oriented, XML framework used to design the UI of Roku channels. These documents explain how to handle critical channel operations such as data scoping, event handling, node and field observers, multi-thread operations, and so on. |
-| [BrightScript language reference](https://developer.roku.com/docs/developer-programreferences/brightscript/language/brightscript-language-reference.md) | Learn the fundamentals and syntax of Roku BrightScript, which is the scripting language used to program the behavior of Roku channels. |
+| [BrightScript language reference](https://developer.roku.com/docs/developer-program/references/brightscript/language/brightscript-language-reference.md) | Learn the fundamentals and syntax of Roku BrightScript, which is the scripting language used to program the behavior of Roku channels. |
 
 ## Related
 
 [Channel directory structure](https://developer.roku.com/docs/developer-program/core-concepts/developing-scenegraph-applications.md#set-up-the-application-directory)
 
-[Renderable nodes](https://developer.roku.com/docs/developer-programreferences/scenegraph/renderable-nodes/label.md)
+[Renderable nodes](https://developer.roku.com/docs/developer-program/references/scenegraph/renderable-nodes/label.md)
 
-[Abstract nodes](https://developer.roku.com/docs/developer-programreferences/scenegraph/abstract-nodes/node.md)
+[Abstract nodes](https://developer.roku.com/docs/developer-program/references/scenegraph/abstract-nodes/node.md)
 
-[Control nodes](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/contentnode.md)
+[Control nodes](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/contentnode.md)
 
 [Content meta data](https://developer.roku.com/docs/developer-program/getting-started/architecture/content-metadata.md)
 
@@ -27,7 +27,7 @@ The lesson continues by providing a high-level overview of several key topics su
 
 [Handing application events](https://developer.roku.com/docs/developer-program/core-concepts/handling-application-events.md)
 
-[OnKeyEvent()](https://developer.roku.com/docs/developer-programreferences/scenegraph/component-functions/onkeyevent.md)
+[OnKeyEvent()](https://developer.roku.com/docs/developer-program/references/scenegraph/component-functions/onkeyevent.md)
 
 [Event loops](https://developer.roku.com/docs/developer-program/core-concepts/event-loops.md)
 

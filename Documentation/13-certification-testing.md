@@ -28,7 +28,7 @@ This lesson concludes by reviewing key tips for optimizing a channel's performan
 
 ## Related
 
-[Task node](https://developer.roku.com/docs/developer-programreferences/scenegraph/control-nodes/task.md)
+[Task node](https://developer.roku.com/docs/developer-program/references/scenegraph/control-nodes/task.md)
 
 [SceneGraph threads](https://developer.roku.com/docs/developer-program/core-concepts/threads.md)
 
@@ -36,6 +36,6 @@ This lesson concludes by reviewing key tips for optimizing a channel's performan
 
 [SceneGraph development tips for data management](https://developer.roku.com/docs/developer-program/performance-guide/data-management.md)
 
-[TimeGrid node](https://developer.roku.com/docs/developer-programreferences/scenegraph/list-and-grid-nodes/timegrid.md)
+[TimeGrid node](https://developer.roku.com/docs/developer-program/references/scenegraph/list-and-grid-nodes/timegrid.md)
 
 [Designing for devices](https://developer.roku.com/docs/developer-program/design/designing-for-device-capabilities.md)
