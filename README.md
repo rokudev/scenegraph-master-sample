@@ -1,3 +1,11 @@
+# scenegraph-master-sample has moved to GitLab
+
+**This project has moved.** Development now continues at **https://gitlab.com/rokudev/scenegraph-master-sample**.
+
+This GitHub repository is archived and read-only. It is kept only as a pointer to the new home. Please open new issues and merge requests on GitLab.
+
+---
+
 # SceneGraph master sample
 
 The SceneGraph Master Sample serves as a model for building a certification-compliant channel. It walks developers through each step in developing a basic, high-performance Roku channel that passes certification. It can be used as a reference when building a new Roku channel UI. Because this master sample is certification-compliant, it can also be used as a template for quickly creating and publishing a customized Roku channel.
